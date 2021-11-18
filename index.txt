@@ -1,2 +1,3 @@
 git ten yazdım
 Github'dan yazdım
+Githubdan yeni bir fonksiyon
